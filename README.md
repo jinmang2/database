@@ -1,5 +1,5 @@
 # database
-[T-academy](https://www.youtube.com/watch?v=2boOF8zndns&list=PLBHVuYlKEkUI73kv66lK2aWmMuQ-vBZwF&index=2&t=0s)
+[T-academy](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=75)
 
 ## 강좌
 ### 1. MongoDB 프로그래밍 1강 클라우드/빅데이터란 무엇인가? 
