@@ -135,13 +135,13 @@
 
 # 3. MongoDB 주요 기능
 ## MongoDB Query
-1. C (Create)
+1. C (Create)<br>
 `db.person.save({'name':'john'});`
-2. R (Read)
+2. R (Read)<br>
 `db.persone.find();`
-3. U (Update)
+3. U (Update)<br>
 `db.users.update({name:'johnny'}, {name:'Cash',languages:['Korean']});`
-4. D (Delete)
+4. D (Delete)<br>
 `db.users.remove({name:'Sue'});`
 
 ## MongoDB 인덱스
