@@ -148,6 +148,12 @@
 - 버그가 상대적으로 많이 있는 상태
 - 업체마다 고유의 특색을 살린 NoSQL을 개발해 공개하는 경우가 많아 새로운 솔루션이 계속 출시되는 상태
 
-
+# Conclusion
+- NoSQL
+  - Not Only SQL의 약자로 기존 RDBMS 형태의 관계형 데이터베이스가 아닌 다른 형태의 데이터 저장 기술을 의미
+- NoSQL 종류
+  - Redis, Apache HBase, Apache Cassandra, MongoDB
+- NoSQL 장점
+  - 데이터모델 자체가 독립적으로 설계되어있어 데이터를 분산시키는 것이 용이하고, 배열 형식의 데이터를 고속으로 처리하는 것이 가능함
 
 
