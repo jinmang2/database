@@ -3,9 +3,7 @@
 # 1. MongoDB
 ![title](https://t1.daumcdn.net/cfile/tistory/9965C4485B1C0FAF04)
 
-[T-academy](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=75)
-
-## 강좌
+## [T-academy](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=75) 강좌
 ### 1강 클라우드/빅데이터란 무엇인가? [YouTube](https://youtu.be/2boOF8zndns), [정리내용](https://github.com/jinmang2/database/blob/master/MongoDB_1.md)
 ### 2강 NoSQL의 특징에 대해 알아보기 [YouTube](https://youtu.be/Dvi_TsBMFJo), [정리내용](https://github.com/jinmang2/database/blob/master/MongoDB_2.md)
 ### 3강 NoSQL 데이터 모델링 기법 살펴보기 [YouTube](https://youtu.be/oUjpMJNtfYE), [정리내용](https://github.com/jinmang2/database/blob/master/MongoDB_3.md)
